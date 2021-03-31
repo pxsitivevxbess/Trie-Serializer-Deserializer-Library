@@ -1,0 +1,2 @@
+# Trie-Serializer-Deserializer-Library
+Developed a C++ Library for Trie data structure with options to serialize and deserialize a Trie and thus a Trie can be read and written to a file. Library also have options to check whether a given word is stored in our Trie data structure or not and can also return the number of words that are stored in our Trie data structure that have a given prefix. • Successfully constructed a Trie from a file that contained more than 1,00,000 words using this Trie Serializer library.
